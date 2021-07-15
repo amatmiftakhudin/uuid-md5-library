@@ -16,11 +16,6 @@ Add the following dependency:
 ````
 The folling code
 ````java
-String paddedString = this.stringPadder.padLeft("My String", 30, '-');
-System.out.println(paddedString);
-````
-Will print:
-
-````
----------------------My String
+String myHash = UUIDMD5GeneratorFactory.createUUIDMD5Generator.generate();
+System.out.println(myHash);
 ````
