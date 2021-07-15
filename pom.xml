@@ -13,7 +13,14 @@
         This project is a library for generate UUID and hashing using md5 Strings in Java.
     </description>
     <url>http://github.com/amatmiftakhudin</url>
-
+	
+	
+	<scm>
+	    <connection>scm:git:git@github.com:amatmiftakhudin/uuid-md5-library.git</connection>
+	    <developerConnection>scm:git:ssh://github.com:amatmiftakhudin/uuid-md5-library.git</developerConnection>
+	    <url>https://github.com/amatmiftakhudin/uuid-md5-library/tree/main</url>
+	</scm>
+	
     <licenses>
         <license>
             <name>The Apache License, Version 2.0</name>
